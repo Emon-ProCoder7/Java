@@ -3,7 +3,8 @@ public class Magic {
     int myNumber = 789;
 
     /*
-      "myNumber" will be refered to as the original number from now on - for Documanetation purpose.
+      "myNumber" will be refered to as the original number from now on...
+      - for Documanetation purpose.
     */
 		int magicOne = myNumber * myNumber;
     int magicTwo = magicOne + myNumber;
@@ -15,7 +16,8 @@ public class Magic {
 		
 		
      /*
-     3 will be printed to the console no matter what integer is choosen as the original number!
+     3 will be printed to the console, 
+     no matter what integer is choosen as the original number!
      */
 		
 		
