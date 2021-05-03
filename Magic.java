@@ -11,6 +11,16 @@ public class Magic {
     int magicFour = magicThree + 17;
     int magicFive =  magicFour - myNumber;
     int magicSix = magicFive / 6;
+		
+		
+		
+     /*
+     3 will be printed to the console no matter what integer is choosen as the original number!
+     */
+		
+		
+		
+		
     System.out.println(magicSix);
 	}
 }
