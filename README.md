@@ -5,6 +5,23 @@
 
 
 
+
+<h1 align = 'center'> Building A Droid </h1> 
+
+#### Project Goals
+I’ve build a droid. All that’s missing were the instructions on how to create the robots and what they’ll do. Then I've defined the state and behavior of the droids using instance fields and methods.
+
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/java.png"/>](https://github.com/Emon-ProCoder7/Java/blob/main/Droid.java)
+
+<br><br>
+
+
+
+
+
+
+
 <h1 align = 'center'> OOP Basic Calculator </h1> 
 
 #### Project Goals
