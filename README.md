@@ -17,7 +17,7 @@ In this project, I've used classes, methods, and objects to create a simple arit
 - Apply the modulo operator on two integers
 
 
-👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://nbviewer.jupyter.org/github/Emon-ProCoder7/Deep-Learning/blob/main/heart_project.ipynb)
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/java.png"/>](https://github.com/Emon-ProCoder7/Java/blob/main/Calculator.java)
 
 <br><br>
 
